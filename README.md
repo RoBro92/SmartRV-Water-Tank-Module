@@ -1,6 +1,9 @@
 # SmartRV-Water-Tank-Module
 **A Wemos based water tank module for a Camper/RV**
 
+All feature requests are tracked in the GitHub issue tracker. 
+[Feature Requests](https://github.com/RoBro92/feature-requests/issues)
+
 **V1.0**
 This is the first revision of the Water Tank Module, It is designed to be able to operate either standalone via a WiFi AP or connected to an existing WiFi network and local access is provided via the IP address. It is also able to interface directly with home automation software on local network such as Home Assistant. 
 
