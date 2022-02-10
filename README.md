@@ -16,17 +16,23 @@ The module has been kept as compact as possible and allows for a direct connecti
 - 10A relay for water valve control
 - LED Indicator for Relay-ON
 
+<table>
+  <tr>
+    <td>3D Model</td>
+     <td>PCB Layout</td>
+  </tr>
+  <tr>
+    <td><img src="images/Watermodule3dv1.jpg" height=480></td>
+    <td><img src="images/WatermodulePCBv1.jpg" height=480></td>
+  </tr>
+ </table>
+
+
+
 **WARNING**
 This board does not have any fuse protection as such this must be provided externally.
 
 
-**3D Model**
-![Alt text](https://github.com/RoBro92/SmartRV-Water-Tank-Module/blob/main/images/Watermodule3dv1.jpg)
 
-**Trace**
-![Alt text](https://github.com/RoBro92/SmartRV-Water-Tank-Module/blob/main/images/WatermodulePCBTracev1.jpg)
-
-**PCB**
-![Alt text](https://github.com/RoBro92/SmartRV-Water-Tank-Module/blob/main/images/WatermodulePCBv1.jpg)
 
 
