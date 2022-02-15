@@ -1,3 +1,5 @@
+ [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O5O4AKQ37)
+
 # SmartRV-Water-Tank-Module
 **A Wemos based water tank module for a Camper/RV**
 
