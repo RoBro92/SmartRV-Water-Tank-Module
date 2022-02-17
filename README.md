@@ -10,7 +10,9 @@ This water tank module is designed to fill a gap in the market for accessible sm
 
 The module has been kept as compact as possible and allows for a direct connection to 12v or 24v vehicle systems. 
 
-**V1.0**
+**You can purchase this board as a DIY kit or assembled from my Ko-Fi Shop [SmartRV Shop](https://ko-fi.com/smartrv/shop)**
+
+# **V1.0**
 This is the first revision of the Water Tank Module pre production.
 
 # **Features**
