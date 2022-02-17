@@ -45,7 +45,16 @@ This is the first revision of the Water Tank Module pre production.
   </tr>
  </table>
 
-
+<table>
+  <tr>
+    <td>PCB Front</td>
+     <td>PCB Rear</td>
+  </tr>
+  <tr>
+    <td><img src="images/pcbfront.jpeg" height=480></td>
+    <td><img src="images/pcbrear.jpeg" height=480></td>
+  </tr>
+ </table>
 
 # **WARNING**
 This board does not have any fuse protection as such this must be provided externally.
