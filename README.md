@@ -53,8 +53,8 @@ This board does not have any fuse protection as such this must be provided exter
      <td>PCB Layout</td>
   </tr>
   <tr>
-    <td><img src="images/Watermodule3dv1.jpg" height=480></td>
-    <td><img src="images/WatermodulePCBv1.jpg" height=480></td>
+    <td><img src="images/v1.1_pcb_layout.jpg" height=480></td>
+    <td><img src="images/PCB%20Layoutv1.1.jpg" height=480></td>
   </tr>
  </table>
 
