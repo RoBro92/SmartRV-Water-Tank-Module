@@ -120,9 +120,9 @@
       },
       "track_widths": [
         0.0,
-        1.0,
-        2.0,
-        3.0
+        0.1524,
+        0.508,
+        2.54
       ],
       "via_dimensions": [
         {
@@ -385,7 +385,7 @@
     "last_paths": {
       "gencad": "",
       "idf": "",
-      "netlist": "",
+      "netlist": "Water Tank Sensor V2.net",
       "specctra_dsn": "",
       "step": "",
       "vrml": ""
