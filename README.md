@@ -12,8 +12,14 @@ The module has been kept as compact as possible and allows for a direct connecti
 
 **If you want to support the development you can purchase this board as a DIY kit or assembled from my Ko-Fi Shop [SmartRV Shop](https://ko-fi.com/smartrv/shop)**
 
-# **V1.0**
-This is the first revision of the Water Tank Module pre production.
+
+# **V1.1**
+This is the initial release and has been tested to work as expected.
+
+# **Changes**
+- Changed FTDI header to 2.54 pitch (Important)
+- Updated relay to D2
+
 
 # **Features**
 - Removeable WemosD1 chip (ESP8266)
@@ -25,14 +31,21 @@ This is the first revision of the Water Tank Module pre production.
 - 10A relay for water valve control
 - LED Indicator for Relay-ON
 
+
 # **Upcoming Changes**
-- Replace components with SMD equivelant
-- Add reverse polarity protection
-- Create 3D printable case
-- Fuse protection
-- Bluetooth app
-- Bluetooth communication
-- Additional Temp Sensor
+
+- [ ] - Replace components with SMD equivelant
+- [ ] - Add reverse polarity protection
+- [ ] - Create 3D printable case
+- [ ] - Fuse protection
+- [ ] - Bluetooth app
+- [ ] - Bluetooth communication
+- [ ] - Additional Temp Sensor
+
+
+# **WARNING**
+This board does not have any fuse protection as such this must be provided externally.
+
 # **Images**
 <table>
   <tr>
@@ -40,8 +53,8 @@ This is the first revision of the Water Tank Module pre production.
      <td>PCB Layout</td>
   </tr>
   <tr>
-    <td><img src="images/Watermodule3dv1.jpg" height=480></td>
-    <td><img src="images/WatermodulePCBv1.jpg" height=480></td>
+    <td><img src="images/v1.1_pcb_layout.jpg" height=480></td>
+    <td><img src="images/PCB%20Layoutv1.1.jpg" height=480></td>
   </tr>
  </table>
 
