@@ -124,8 +124,8 @@ This release is an initial design and will incorporate primarily SMD components.
      <td>PCB Layout</td>
   </tr>
   <tr>
-    <td><img src="V1%20SMD/images/schematic.jpg" height=480></td>
-    <td><img src="V1%20THT/images/PCB%20Layoutv1.1.jpg" height=480></td>
+    <td><img src="V2%20SMD/Images/schematic.jpg" height=480></td>
+    <td><img src="V2%20SMD/Images/layout.jpg" height=480></td>
   </tr>
  </table>
 
@@ -135,8 +135,8 @@ This release is an initial design and will incorporate primarily SMD components.
      <td>PCB Rear</td>
   </tr>
   <tr>
-    <td><img src="V1%20THT/images/pcbfront.jpeg" height=480></td>
-    <td><img src="V1%20THT/images/pcbrear.jpeg" height=480></td>
+    <td><img src="V2%20SMD/Images/pcbfront.jpeg" height=480></td>
+    <td><img src="V2%20SMD/Images/pcbrear.jpeg" height=480></td>
   </tr>
  </table>
 
