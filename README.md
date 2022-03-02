@@ -120,11 +120,11 @@ This release is an initial design and will incorporate primarily SMD components.
 # **Images**
 <table>
   <tr>
-    <td>3D Model</td>
+    <td>Schematic</td>
      <td>PCB Layout</td>
   </tr>
   <tr>
-    <td><img src="V1%20THT/images/v1.1_pcb_layout.jpg" height=480></td>
+    <td><img src="V1%20SMD/images/schematic.jpg" height=480></td>
     <td><img src="V1%20THT/images/PCB%20Layoutv1.1.jpg" height=480></td>
   </tr>
  </table>
