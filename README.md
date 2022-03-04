@@ -136,7 +136,7 @@ This release is an initial design and will incorporate primarily SMD components.
   </tr>
   <tr>
     <td><img src="V2%20SMD/Images/3dfront.jpg" height=480></td>
-    <td><img src="V2%20SMD/Images/3drear.jpg" height=480></td>
+    <td><img src="V2%20SMD/Images/3dback.jpg" height=480></td>
   </tr>
  </table>
 
