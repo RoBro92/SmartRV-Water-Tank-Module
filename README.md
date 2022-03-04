@@ -62,8 +62,8 @@ This is the initial release and has been tested to work as expected.
      <td>PCB Layout</td>
   </tr>
   <tr>
-    <td><img src="V1%20THT/images/v1.1_pcb_layout.jpg" height=480></td>
-    <td><img src="V1%20THT/images/PCB%20Layoutv1.1.jpg" height=480></td>
+    <td><img src="V1%20THT/images/3dmodelfront.jpg" height=480></td>
+    <td><img src="V1%20THT/images/pcblayout.jpg" height=480></td>
   </tr>
  </table>
 
@@ -92,8 +92,8 @@ This release is an initial design and will incorporate primarily SMD components.
 - Newer technology
 
 # **Changes**
-- Added initial schematic and PCB layout with images
-
+- [x] - Added initial schematic and PCB layout with images
+- [x] - Add reverse polarity protection
 
 # **Features**
 - ESP32 Wroom 32D SMD 
@@ -109,7 +109,6 @@ This release is an initial design and will incorporate primarily SMD components.
 
 # **Upcoming Changes**
 
-- [x] - Add reverse polarity protection
 - [ ] - Create 3D printable case
 - [ ] - Fuse protection
 - [ ] - Bluetooth app
