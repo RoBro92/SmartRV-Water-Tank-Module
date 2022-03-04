@@ -109,7 +109,7 @@ This release is an initial design and will incorporate primarily SMD components.
 
 # **Upcoming Changes**
 
-- [ ] - Add reverse polarity protection
+- [x] - Add reverse polarity protection
 - [ ] - Create 3D printable case
 - [ ] - Fuse protection
 - [ ] - Bluetooth app
@@ -125,18 +125,18 @@ This release is an initial design and will incorporate primarily SMD components.
   </tr>
   <tr>
     <td><img src="V2%20SMD/Images/schematic.jpg" height=480></td>
-    <td><img src="V2%20SMD/Images/layout.jpg" height=480></td>
+    <td><img src="V2%20SMD/Images/pcblayout.jpg" height=480></td>
   </tr>
  </table>
 
 <table>
   <tr>
-    <td>PCB Front</td>
-     <td>PCB Rear</td>
+    <td>3D Model Front</td>
+     <td>3D Model Rear</td>
   </tr>
   <tr>
-    <td><img src="V2%20SMD/Images/pcbfront.jpeg" height=480></td>
-    <td><img src="V2%20SMD/Images/pcbrear.jpeg" height=480></td>
+    <td><img src="V2%20SMD/Images/3dfront.jpg" height=480></td>
+    <td><img src="V2%20SMD/Images/3drear.jpg" height=480></td>
   </tr>
  </table>
 
