@@ -86,7 +86,9 @@ ___
 ### SMD
 
 # **V2.0**
-This release is an initial design and will incorporate primarily SMD components. It will also feature an ESP32 Module for several reasons;
+This release is an initial design and will incorporate primarily SMD components. This version will be primarily designed to be a production, standalone product with either bluetooth app control or a touchscreen interface/display. 
+
+It will also feature an ESP32 Module for several reasons;
 - Bluetooth connection with AIO board to act as an additional wireless tank sensor
 - Lower power consumption if being used with a battery
 - Newer technology
@@ -114,6 +116,7 @@ This release is an initial design and will incorporate primarily SMD components.
 - [ ] - Bluetooth app
 - [ ] - Bluetooth communication
 - [ ] - Additional Temp Sensor
+- [ ] - External display 
 
 
 # **Images**
