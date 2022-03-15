@@ -26,12 +26,12 @@ The module has been kept as compact as possible and allows for a direct connecti
 ### THT
 
 # **V1.1**
-This is the initial release and has been tested to work as expected.
+This is the initial release and has been tested to work as expected. 
 
 # **Changes**
-- Changed FTDI header to 2.54 pitch (Important)
-- Updated relay to D2
-
+- [x] - Changed FTDI header to 2.54 pitch 
+- [x] - Updated relay to D2
+- [x] - Replace components with SMD equivelant
 
 # **Features**
 - Removeable WemosD1 chip (ESP8266)
@@ -46,14 +46,9 @@ This is the initial release and has been tested to work as expected.
 
 # **Upcoming Changes**
 
-- [ ] - Replace components with SMD equivelant
 - [ ] - Add reverse polarity protection
 - [ ] - Create 3D printable case
 - [ ] - Fuse protection
-- [ ] - Bluetooth app
-- [ ] - Bluetooth communication
-- [ ] - Additional Temp Sensor
-
 
 # **Images**
 <table>
@@ -86,7 +81,7 @@ ___
 ### SMD
 
 # **V2.0**
-This release is an initial design and will incorporate primarily SMD components. This version will be primarily designed to be a production, standalone product with either bluetooth app control or a touchscreen interface/display. 
+This version will be primarily designed to be a production, standalone product with either bluetooth app control or a touchscreen interface/display. 
 
 It will also feature an ESP32 Module for several reasons;
 - Bluetooth connection with AIO board to act as an additional wireless tank sensor
@@ -107,6 +102,7 @@ It will also feature an ESP32 Module for several reasons;
 - 10A relay for water valve control
 - LED Indicator for Relay-ON
 - LED Indicator for Power-ON
+- Revers polarity protection
 
 
 # **Upcoming Changes**
