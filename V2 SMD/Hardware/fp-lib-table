@@ -1,4 +1,0 @@
-(fp_lib_table
-  (lib (name "digikey-footprints")(type "KiCad")(uri "C:/Users/robin/Documents/KiCad/6.0/Project Libraries/digikey-kicad-library-master/digikey-footprints.pretty")(options "")(descr ""))
-  (lib (name "SamacSys_Parts")(type "KiCad")(uri "C:/Users/robin/Documents/KiCad/6.0/Project Libraries/single components/SamacSys_Parts.pretty")(options "")(descr ""))
-)
