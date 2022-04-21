@@ -31,7 +31,6 @@ This is the initial release and has been tested to work as expected.
 # **Changes**
 - [x] - Changed FTDI header to 2.54 pitch 
 - [x] - Updated relay to D2
-- [x] - Replace components with SMD equivelant
 
 # **Features**
 - Removeable WemosD1 chip (ESP8266)
@@ -41,7 +40,7 @@ This is the initial release and has been tested to work as expected.
 - DS18b20 temperature sensor
 - Resistive water level sensor
 - 10A relay for water valve control
-- LED Indicator for Relay-ON
+- LED Indicator for Power-ON
 
 
 # **Upcoming Changes**
