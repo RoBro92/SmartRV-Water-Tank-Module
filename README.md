@@ -25,29 +25,29 @@ The module has been kept as compact as possible and allows for a direct connecti
 
 ### THT
 
-# **V1.1**
-This is the initial release and has been tested to work as expected. 
+# **V1.2**
+This release represents the final revision any further changes should be requested in the [Feature Requests](https://github.com/RoBro92/feature-requests/issues) section
 
 # **Changes**
-- [x] - Changed FTDI header to 2.54 pitch 
-- [x] - Updated relay to D2
+- [x] - Added reverse polarity protection
+- [x] - Added LED indicators for power and relay
+- [x] - Updated repository with Gerber production files
 
 # **Features**
-- Removeable WemosD1 chip (ESP8266)
-- Onboard power regulation
-- Variable voltage input 8v-36v
-- Compact form factor
-- DS18b20 temperature sensor
-- Resistive water level sensor
-- 10A relay for water valve control
-- LED Indicator for Power-ON
+- [x] - Removeable WemosD1 chip (ESP8266)
+- [x] - Onboard power regulation
+- [x] - Variable voltage input 8v-36v
+- [x] - Compact form factor
+- [x] - DS18b20 temperature sensor
+- [x] - Resistive water level sensor
+- [x] - 10A relay for water valve control
+- [x] - LED Indicator for Power-ON
 
 
 # **Upcoming Changes**
 
-- [ ] - Add reverse polarity protection
 - [ ] - Create 3D printable case
-- [ ] - Fuse protection
+
 
 # **Images**
 <table>
