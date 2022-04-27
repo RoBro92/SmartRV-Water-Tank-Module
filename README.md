@@ -53,18 +53,28 @@ This release represents the final revision any further changes should be request
 <table>
   <tr>
     <td>3D Model</td>
-     <td>PCB Layout</td>
   </tr>
   <tr>
     <td><img src="V1%20THT/images/3dmodelfront.jpg" height=480></td>
-    <td><img src="V1%20THT/images/pcblayout.jpg" height=480></td>
+  </tr>
+ 
+ </table>
+<table>
+  <tr>
+         <td>Schematic</td>
+     <td>PCB Layout</td>
+
+  </tr>
+  <tr>
+   <td><img src="V1%20THT/images/schematic.jpg" height=480></td> 
+   <td><img src="V1%20THT/images/pcblayout.jpg" height=480></td>    
   </tr>
  </table>
 
 <table>
   <tr>
-    <td>PCB Front</td>
-     <td>PCB Rear</td>
+    <td>PCB Front v1.0</td>
+     <td>PCB Rear v1.0</td>
   </tr>
   <tr>
     <td><img src="V1%20THT/images/pcbfront.jpeg" height=480></td>
