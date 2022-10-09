@@ -6,16 +6,16 @@
 All feature requests are tracked in the GitHub issue tracker. 
 [Feature Requests](https://github.com/RoBro92/feature-requests/issues)
 
-This water tank module is designed to fill a gap in the market for accessible smart water tank monitoring. Other systems such as Pico and Victron do exist however there cost can be prohibitive. This module is based off the ESP8266/32 by Espressif & is designed to work standalone or as part of a network to provide accurate and realtime updates for water tank level and temperature. It also provides a relay designed to interface with motorized ball valves either 2/3 wire and will allow remote draining of tanks without having to leave the vehicle. 
+This water tank module is designed to fill a gap in the market for accessible smart water tank monitoring. Other systems such as Pico and Victron do exist however their cost can be prohibitive. This module is based on the ESP8266/32 by Espressif & is designed to work standalone or as part of a network to provide accurate and real-time updates for water tank level and temperature. It also provides a relay designed to interface with motorized ball valves or 2/3 wire and will allow remote draining of tanks without having to leave the vehicle. 
 
 The module has been kept as compact as possible and allows for a direct connection to 12v or 24v vehicle systems. 
 
 
-**If you want to support the development you can purchase this board as a DIY kit or assembled from my Ko-Fi Shop [SmartRV Shop](https://ko-fi.com/smartrv/shop)**
+**If you want to support the development you can purchase this board as a DIY kit or assemble from my Ko-Fi Shop [SmartRV Shop](https://ko-fi.com/smartrv/shop)**
 
-## **I have developed two seperate versions of this module**
+## **I have developed two separate versions of this module**
 
-[V1 is THT and is suitable for at home soldering](#tht)
+[V1 is THT and is suitable for at-home soldering](#tht)
 
 [V2 is SMD and is designed to be assembled by a PCB manufacturer](#smd)
 
@@ -89,39 +89,43 @@ ___
 
 ### SMD
 
-# **V2.0**
-This version will be primarily designed to be a production, standalone product with either bluetooth app control or a touchscreen interface/display. 
+# **V2.1**
+This version will be primarily designed to be a production, standalone product with either Bluetooth app control or a touchscreen interface/display. 
 
 It will also feature an ESP32 Module for several reasons;
 - Bluetooth connection with AIO board to act as an additional wireless tank sensor
 - Lower power consumption if being used with a battery
 - Newer technology
 
-# **Changes**
-- [x] - Added initial schematic and PCB layout with images
+# **Changes This Version**
+- [x] - External display provided via TX/RX for Nextion display
+- [x] - Added initial schematic and PCB layout with images including 3D
 - [x] - Add reverse polarity protection
+- [x] - Added pinout rail for additional sensors
+- [x] - Bluetooth communication built into ESP32 module
 
 # **Features**
-- ESP32 Wroom 32D SMD 
-- Onboard power regulation
-- Variable voltage input 8v-36v
-- Compact form factor
-- DS18b20 temperature sensor
-- Resistive water level sensor
-- 10A relay for water valve control
-- LED Indicator for Relay-ON
-- LED Indicator for Power-ON
-- Revers polarity protection
+- [x] - ESP32-C3-Mini
+- [x] - Onboard power regulation
+- [x] - Variable voltage input 8v-36v
+- [x] - Compact form factor
+- [x] - DS18b20 temperature sensor
+- [x] - Resistive water level sensor
+- [x] - 10A relay for water valve control
+- [x] - LED Indicator for Relay-ON
+- [x] - LED Indicator for Power-ON
+- [x] - Reverse polarity protection
 
 
 # **Upcoming Changes**
 
 - [ ] - Create 3D printable case
-- [ ] - Fuse protection
 - [ ] - Bluetooth app
-- [ ] - Bluetooth communication
-- [ ] - Additional Temp Sensor
-- [ ] - External display 
+- [ ] - Change to raised LED's for through case display
+- [ ] - Add pins for external switch (Programmable)
+- [ ] - SPI breakout
+- [ ] - Manual Override switch
+
 
 
 # **Images**
@@ -131,8 +135,8 @@ It will also feature an ESP32 Module for several reasons;
      <td>PCB Layout</td>
   </tr>
   <tr>
-    <td><img src="V2%20SMD/Images/schematic.jpg" height=480></td>
-    <td><img src="V2%20SMD/Images/pcblayout.jpg" height=480></td>
+    <td><img src="V2%20SMD/Images/schematic.png" height=480></td>
+    <td><img src="V2%20SMD/Images/pcblayout.png" height=480></td>
   </tr>
  </table>
 
@@ -142,8 +146,8 @@ It will also feature an ESP32 Module for several reasons;
      <td>3D Model Rear</td>
   </tr>
   <tr>
-    <td><img src="V2%20SMD/Images/3dfront.jpg" height=480></td>
-    <td><img src="V2%20SMD/Images/3dback.jpg" height=480></td>
+    <td><img src="V2%20SMD/Images/3dfront.png" height=480></td>
+    <td><img src="V2%20SMD/Images/3dback.png" height=480></td>
   </tr>
  </table>
 
