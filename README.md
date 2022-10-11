@@ -98,31 +98,29 @@ It will also feature an ESP32 Module for several reasons;
 - Newer technology
 
 # **Changes This Version**
-- [x] - External display provided via TX/RX for Nextion display
-- [x] - Added initial schematic and PCB layout with images including 3D
-- [x] - Add reverse polarity protection
-- [x] - Added pinout rail for additional sensors
-- [x] - Bluetooth communication built into ESP32 module
+- [x] - Added 3D printed case
+- [x] - Changed resistor for Level sensor to THT to make variable to suit other level gauges
 
 # **Features**
 - [x] - ESP32-C3-Mini
 - [x] - Onboard power regulation
 - [x] - Variable voltage input 8v-36v
 - [x] - Compact form factor
-- [x] - DS18b20 temperature sensor
-- [x] - Resistive water level sensor
+- [x] - DS18b20 temperature sensor input
+- [x] - Resistive water level sensor input
 - [x] - 10A relay for water valve control
-- [x] - LED Indicator for Relay-ON
-- [x] - LED Indicator for Power-ON
 - [x] - Reverse polarity protection
+- [x] - External display provided via TX/RX for Nextion display
+- [x] - Added initial schematic and PCB layout with images including 3D
+- [x] - Add reverse polarity protection
+- [x] - Added pinout rail for additional sensors
+- [x] - Bluetooth communication built into ESP32 module
 
 
-# **Upcoming Changes**
 
-- [ ] - Create 3D printable case
+# **Planned Changes**
+
 - [ ] - Bluetooth app
-- [ ] - Change to raised LED's for through case display
-- [ ] - Add pins for external switch (Programmable)
 - [ ] - SPI breakout
 - [ ] - Manual Override switch
 
@@ -148,6 +146,17 @@ It will also feature an ESP32 Module for several reasons;
   <tr>
     <td><img src="V2%20SMD/Images/3dfront.png" height=480></td>
     <td><img src="V2%20SMD/Images/3dback.png" height=480></td>
+  </tr>
+ </table>
+
+<table>
+  <tr>
+    <td>Case</td>
+     <td>Case Inside</td>
+  </tr>
+  <tr>
+    <td><img src="V2%20SMD/Images/case.png" height=480></td>
+    <td><img src="V2%20SMD/Images/caseinside.png" height=480></td>
   </tr>
  </table>
 
