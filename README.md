@@ -27,13 +27,11 @@ The module has been kept as compact as possible and allows for a direct connecti
 
 ### THT
 
-# **V1.2**
-This release represents the final revision any further changes should be requested in the [Feature Requests](https://github.com/RoBro92/feature-requests/issues) section
+# **V1.3**
+This release represents the final revision any further changes should be requested in the [Feature Requests](https://github.com/RoBro92/feature-requests/issues) section. It has been updated to include the design schematic and PCB layout. I will stock a number of these boards to be assembled by yourself and can also include supporting documentation. This device can also be supplied assembled if required. 
 
 # **Changes**
-- [x] - Added reverse polarity protection
-- [x] - Added LED indicators for power and relay
-- [x] - Updated repository with Gerber production files
+- [x] - Updated to V1.3 final. 
 
 # **Features**
 - [x] - Removeable WemosD1 chip (ESP8266)
@@ -44,6 +42,9 @@ This release represents the final revision any further changes should be request
 - [x] - Resistive water level sensor
 - [x] - 10A relay for water valve control
 - [x] - LED Indicator for Power-ON
+- [x] - Added reverse polarity protection
+- [x] - Added LED indicators for power and relay
+- [x] - Updated repository with Gerber production files
 
 
 
@@ -64,8 +65,8 @@ This release represents the final revision any further changes should be request
 
   </tr>
   <tr>
-   <td><img src="V1%20THT/images/schematic.jpg" height=480></td> 
-   <td><img src="V1%20THT/images/pcblayout.jpg" height=480></td>    
+   <td><img src="V1%20THT/images/schematic.png" height=480></td>
+   <td><img src="V1%20THT/images/pcblayout.png" height=480></td>    
   </tr>
  </table>
 
