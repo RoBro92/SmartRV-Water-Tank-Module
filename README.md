@@ -72,8 +72,8 @@ This release represents the final revision any further changes should be request
 
 <table>
   <tr>
-    <td>PCB Front v1.0</td>
-     <td>PCB Rear v1.0</td>
+    <td>PCB Front v1.3</td>
+     <td>PCB Rear v1.3</td>
   </tr>
   <tr>
     <td><img src="V1%20THT/images/pcbfront.jpg" height=480></td>
