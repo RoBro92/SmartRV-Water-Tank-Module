@@ -1,0 +1,13 @@
+sensor:
+  - platform: template
+    sensors:
+      wastewaterlevel:
+        friendly_name: "Waste Water Level"
+        value_template: >-
+           {% if states('sensor.NAME') | float > 0.2 and states('sensor.NAME') | float < 0.4 %} 100%
+           {% elif states('sensor.NAME') | float > 0.5 and states('sensor.NAME') | float < 0.7 %} 75%
+           {% elif states('sensor.NAME') | float > 0.8 and states('sensor.NAME') | float < 1 %} 50%
+           {% elif states('sensor.NAME') | float > 1.05 and states('sensor.NAME') | float < 1.2 %} 25%
+           {% elif states('sensor.NAME') | float > 1.5 and states('sensor.NAME') | float < 2 %}  0%
+           {% else %} ERROR
+           {%- endif %}
